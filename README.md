@@ -23,10 +23,10 @@ Todos organizados por tema e com gabarito.
 
 📂 Pasta: `Exercicios`
 
-- [](Exercicios/)
-- 
-
-
+- [Estoque](Exercicios/1.Estoque.md)
+- [Salário](Exercicios/2.Salário.md)
+- [Nota do aluno](Exercicios/3.Contador-de-produtos.md)
+- [Cotação do dólar](Exercicios/4.Cotacão-do-dólar.md)
 
 ---
 
