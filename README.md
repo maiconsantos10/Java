@@ -14,7 +14,8 @@ Repositório criado para acompanhar meu aprendizado em Java com foco em **POO**,
 - [Sobrecarga](introducaoAPOO/05.Sobrecarga.md)
 - [Encapsulamento](introducaoAPOO/06.Encapsulamento.md)
 - [Modificadores de acesso](introducaoAPOO/07.Modificadores-de-acesso.md)
-  
+- [Tipo referência vs Tipo valor](introducaoAPOO/08.Tipo-referencia-vs-Tipo-valor.md)
+- [Garbage collector e Escopo local](introducaoAPOO/09.Garbage-Collector-e-Escopo-local.md)  
 
 ---
 
