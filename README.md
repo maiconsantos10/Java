@@ -1,25 +1,23 @@
-<img src="https://images.icon-icons.com/2699/PNG/512/java_horizontal_logo_icon_167858.png">
 
 # ☕ Estudos em Java
 
 > Repositório criado para acompanhar meu aprendizado em Java. Os conteúdos dispostos estão focados na minha Pós em Desenvolvimento de Sistemas com Java.
 
-## 📅 Organização Semanal
+## 📅 Organização do Repositório
 
-- [Semana 01 - Classes e Objetos](./introducaoAPOO/01.Classes-E-Objetos)
-- [Semana 02 - Arrays e Coleções](./introducaoAPOO/02.Arrays-E-Coleções)
+- [POO](./POO)
+- [Exercicios](./Exercicios)
 
 
 ## 💻 Tecnologias Utilizadas
 
 - Java 17+
 - Eclipse
-- Maven
-- GitHub
+- Spring Boot
 
 ## 🧠 Objetivo
 
-Organizar os aprendizados semanais com foco prático, com projetos pequenos, exercícios e desafios em Java puro.
+Organizar os aprendizados semanais com foco prático, com projetos, exercícios e desafios em Java.
 
 ## 📌 Observações
 
